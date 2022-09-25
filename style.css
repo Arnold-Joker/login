@@ -1,0 +1,60 @@
+
+h1{
+				color: blue;
+				text-align: center;
+}
+
+.form{
+				background: white;
+				border: solid black;
+				border-radius: 15px;
+				height: 200px;
+}
+form input{
+				margin: 1%;
+				width: 95%;
+				height: 40px;
+}
+
+
+#save{
+				width: 100%;
+				height: 40px;
+				text-align: center;
+				background-color: #0057ff;
+				color: white; 
+				font-size: 20px;
+}
+
+#forgot{
+				padding: 10px;
+				margin: auto;
+				display: flex;
+				justify-content: center;
+}
+
+#new-account{
+				background-color: green;
+				color: white;
+				font-size: 15px;
+				text-align: center;
+				
+				margin: auto;
+				display: flex;
+				justify-content: center;
+				
+				width: 150px;
+				height: 30px;
+}
+
+.lungguage button{
+				padding-right: 100px;
+				background-color:#00000000 ;
+				border: solid #00000000;
+}
+footer{
+				margin: auto;
+				display: flex;
+				justify-content: center;
+				color: grey;
+}
